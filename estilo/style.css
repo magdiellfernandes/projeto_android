@@ -115,9 +115,7 @@ main h1 {
     font-family: var(--fonte-android);
     font-size: 1.8em;
     font-weight: normal;
-    display: block;
-    text-align: center;
-
+    
 }
 
 main h2 {
